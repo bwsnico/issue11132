@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+	],
+	"settings": {
+		"C_Cpp.default.compilerPath": "D:/XMaster5-Buildtools/msys/2.0/mingw32/bin/clang.exe",
+		"C_Cpp.default.intelliSenseMode": "windows-clang-x86",
+		"C_Cpp.default.includePath": [
+			"${workspaceFolder}/Source/**",
+			"${workspaceFolder}/SourceM4/inc/**"
+		],
+		"C_Cpp.loggingLevel": "Information",
+		"files.exclude": {
+			"Source[^M\\/]*": true
+		}
+	}
+}
